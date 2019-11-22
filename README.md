@@ -27,5 +27,8 @@ Karen Schooler - Linkedin
 
 ## Acknowledgements
 GISMo Garden is not the first project of it's kind and won't be the last. Many such projects have been built and shared by amazing DIYers, makers, and hydroponic enthusiasts. We would like to acknowledge the following people for providing inspiration and design templates for GISMo Garden:
-*
-*
+* Paul Langdon
+https://makerfaire.com/mfarchives/arduino-controlled-hydroponic-farm/
+* Bruce Gee
+https://makerfaire.com/maker/entry/54750/
+https://makerfaire.com/maker/entry/69571/
