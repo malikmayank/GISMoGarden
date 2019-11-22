@@ -18,17 +18,17 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 ## Project Team
-Mayank Malik - Github and Linkedin
-Bennet Meyers - Github and Linkedin
-David Chassin - Github and Linkedin
-Berk Serbetcioglu - Github and Linkedin
-Derin Serbetcioglu - Github and Linkedin
-Karen Schooler - Linkedin
+* Mayank Malik - Github and Linkedin
+* Bennet Meyers - Github and Linkedin
+* David Chassin - Github and Linkedin
+* Berk Serbetcioglu - Github and Linkedin
+* Derin Serbetcioglu - Github and Linkedin
+* Karen Schooler - Linkedin
 
 ## Acknowledgements
 GISMo Garden is not the first project of it's kind and won't be the last. Many such projects have been built and shared by amazing DIYers, makers, and hydroponic enthusiasts. We would like to acknowledge the following people for providing inspiration and design templates for GISMo Garden:
 * Paul Langdon
 https://makerfaire.com/mfarchives/arduino-controlled-hydroponic-farm/
 * Bruce Gee
-https://makerfaire.com/maker/entry/54750/
-https://makerfaire.com/maker/entry/69571/
+(without solar) https://makerfaire.com/maker/entry/54750/
+(with solar) https://makerfaire.com/maker/entry/69571/
