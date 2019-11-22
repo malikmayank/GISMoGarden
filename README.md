@@ -6,16 +6,16 @@ GISMo Garden is an off-grid vertical gardening solution developed by Grid Integr
 
 This system integrates Particle Photon and a pH sensor, using IoT to deliver important messages to the user over Slack if any sensor measurements are found to be suboptimal for growing.
 
-Refer to (TUTORIAL.md)[/TUTORIAL.md] for a step-by-step guide to build your very own GISMo Garden.
+Refer to [TUTORIAL.md](/TUTORIAL.md) for a step-by-step guide to build your very own GISMo Garden.
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+This repository is not being actively maintained.
 
 ## Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 ## Project Team
-* Mayank Malik - (Github)[https://github.com/malikmayank/]
+* Mayank Malik - [Github](https://github.com/malikmayank/)
 * Bennet Meyers - Github and Linkedin
 * David Chassin - Github and Linkedin
 * Berk Serbetcioglu - Github and Linkedin
